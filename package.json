@@ -2,8 +2,8 @@
   "name": "zhishu",
   "version": "1.0.0",
   "scripts": {
-    "docs:dev": "vuepress dev .",
-    "docs:build": "vuepress build ."
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
   },
   "license": "MIT",
   "devDependencies": {
